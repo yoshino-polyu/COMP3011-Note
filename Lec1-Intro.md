@@ -1,3 +1,4 @@
+good tut: https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
 ![[Pasted image 20241103120005.png]]
 unstable pair: 有个比当前的 assignment 双方都更加 prefer 的一个选择. 
 # Gale–Shapley algorithm

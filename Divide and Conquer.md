@@ -1,6 +1,5 @@
 # Mergesort
 ![[Pasted image 20241104210218.png]]
-
 visually represent inversions:
 ![[Pasted image 20241104211234.png]]
 # Counting inversions
